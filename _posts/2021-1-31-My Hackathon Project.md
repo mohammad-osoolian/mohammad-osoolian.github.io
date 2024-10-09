@@ -1,0 +1,2 @@
+my project for dhango faramework was [ClassMentor](http://99521073.pythonanywhere.com/classmentor/). this projects is built to help the students to have better and easier choises for their calsses. in this webapp you can read others opinions abount teachers and you can submit your aopinion to help others!
+[<img src="../assets/images/classmentor.png">](http://99521073.pythonanywhere.com/classmentor/)
