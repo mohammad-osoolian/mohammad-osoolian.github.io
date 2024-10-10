@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Looking for PhD Opportunities in NLP"
 date: 2024-10-11
 categories: research
