@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mohammad Osoolian"
   avatar           : "/assets/images/avatarpic.jpg"
-  bio              : I'm a NLP researcher and I work on interaction between multiple LLM agents 
+  bio              : I'm an NLP researcher 
   location         : "تهران"
   email            : osoolianmohammad@gmail.com
   bluesky          : mohammad_osl
@@ -124,6 +124,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mohammad-osoolian.github.io/personalwebsite/"
+    - label: "‌Bluesky"
+      icon: "fas fa-fw fa-link"
+      url: "https://bsky.app/profile/mohammad-osl.bsky.social"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
