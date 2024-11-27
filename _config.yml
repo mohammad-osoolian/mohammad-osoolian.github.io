@@ -112,7 +112,7 @@ author:
   bio              : I'm a NLP researcher and I work on interaction between multiple LLM agents 
   location         : "تهران"
   email            : osoolianmohammad@gmail.com
-  # twitter: sauleh_e
+  bluesky          : mohammad_osl
   # linkedin: sauleh
   # google_scholar: Q25s5KkAAAAJ
   # github: sauleh
@@ -133,8 +133,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mohammad-osoolian"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     # - label: "Calendly"
     #   icon: "fas fa-calendar-alt"
